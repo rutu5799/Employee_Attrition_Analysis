@@ -21,9 +21,16 @@ Using **HR analytics** and **machine learning**, this project helps HR departmen
 **Sample**:
 
 
-<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f487f479-c41a-4a63-8989-b0654a156b3f" />
+<img width="1752" height="198" alt="image" src="https://github.com/user-attachments/assets/00aeb025-e8ff-49f8-9bbc-3355d52acbd0" />
 
- 
+
+
+ **dashboard** :
+
+
+
+<img width="574" height="323" alt="dashboard view" src="https://github.com/user-attachments/assets/be4a0e3d-eab8-4c77-87b2-90d48a20af9e" />
+
 
 ---
 
