@@ -1,6 +1,7 @@
-👩‍💼 Employee Attrition Analysis
+## Employee Attrition Analysis
 
 📘 Overview
+
 This project focuses on analyzing employee data to understand the factors that contribute to **attrition (employee turnover)** and predict which employees are most likely to leave the organization.  
 Using **HR analytics** and **machine learning**, this project helps HR departments take proactive steps to improve retention and satisfaction.
 
@@ -17,37 +18,25 @@ Using **HR analytics** and **machine learning**, this project helps HR departmen
 - **Source:** IBM HR Analytics Employee Attrition Dataset (Kaggle / IBM Sample Data)  
   **Target Variable:** `Attrition` (Yes / No)
 
+**Sample**:
 
-🧠 Machine Learning Workflow
-1. **Data Preprocessing**
-   - Handling missing values  
-   - Label encoding categorical variables  
-   - Feature scaling and normalization  
 
-2. **Exploratory Data Analysis (EDA)**
-   - Attrition rate by department, gender, age group  
-   - Correlation heatmap between variables  
-   - Box plots for salary vs. attrition  
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f487f479-c41a-4a63-8989-b0654a156b3f" />
 
-3. **Model Building**
-   - Logistic Regression  
-   - Random Forest Classifier  
-   - XGBoost  
-   - Support Vector Machine  
-
-4. **Evaluation Metrics**
-   - Accuracy  
-   - Precision, Recall, F1-Score  
-   - ROC-AUC Curve  
+ 
 
 ---
 
-📈 Dashboard Insights (Power BI / Tableau)
+📈 Dashboard Insights (Power BI)
 An interactive HR analytics dashboard showcasing:
 - Attrition by department, gender, job level, and salary range  
 - Employee satisfaction vs. attrition trend  
 - Average tenure and work-life balance scores  
-- KPI cards for overall attrition rate and retention  
+- KPI cards for overall attrition rate and retention
+- Identify key factors contributing to employee attrition.
+- Enable data-driven HR decision-making through interactive reports.
+- We are using Interactive filters (Department, Gender, Job Role, Education, etc.)
+- Visuals – Bar charts, Pie charts, Donut charts, Line graphs, and Heat maps
 
 
 
